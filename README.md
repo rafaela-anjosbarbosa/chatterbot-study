@@ -1,2 +1,2 @@
 # chatterbot-study
-Projeto de estudo Chatterbot + Flask
+Projeto de estudo Chatterbot
